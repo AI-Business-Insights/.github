@@ -2,8 +2,7 @@
 
 ### Tech Challenge | Pós Tech IA para Devs - FIAP
 
-![logomarca](https://github.com/user-attachments/assets/80c3c123-5aa2-4c48-91b8-d99de8eb3572)
-
+![logomarca](https://github.com/user-attachments/assets/c158acf6-5871-460a-9451-18adb472a012)
 
 <!--
 
